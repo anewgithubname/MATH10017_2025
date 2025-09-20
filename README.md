@@ -1,6 +1,6 @@
-# MATH10017 Algorithms and Programming in C(++) and R
+# MATH10017 Algorithms and Programming in C and R
 
-TL,DR; This unit teaches basic language features of C, R and C++. 
+TL,DR; This unit teaches basic language features of C, R. 
 
 **Lecturer**: Matteo Fasiolo (matteo.fasiolo@bristol.ac.uk), Song Liu (song.liu@bristol.ac.uk),
 
@@ -9,11 +9,10 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - Luke Shannon (nq24207@bristol.ac.uk)
    - Jordan Forest (j.frost@bristol.ac.uk)
 
-**Useful Links:**
-   - [Policy of AI Use](misc/llm.md) (IMPORTANT)
-   - [How to use VSCode on Mac](VS-code-for-mac.md)
+**Announcement:**
+   - [Policy of AI Use](misc/llm.md) (MUST READ)
 -----------
-## Lecture Materials (Download slides to your PC (or the links won't work!))
+## Lecture Materials (Download slides to your PC or the links won't work!)
 [Last Year's Materials, may slightly differ from this year's.](https://github.com/anewgithubname/MATH10017-2024)
 
 Go to Blackboard, Resource and Learning Tools to watch replay! 
@@ -32,3 +31,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 5. [C Programming under 4 hours](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=7521s) is a youtube video crash course designed for beginners. 
 6. [The Art of R Programming](https://www.oreilly.com/library/view/the-art-of/9781593273842/), a good reference book for R programming. 
 7. [Introductory Statistics with R](https://link.springer.com/book/10.1007/978-0-387-79054-1), an introductory book for both statistics and R programming. 
+
+
+## Miscellaneous  
+   - [How to use VSCode on Mac](VS-code-for-mac.md)
