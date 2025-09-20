@@ -19,6 +19,8 @@ TL,DR; This unit teaches basic language features of C, R.
 Go to Blackboard, Resource and Learning Tools to watch replay! 
 
 1. Lecture slides: [Foundation](lecs/lec0.pdf)
+   - [Homework 0](labs/lab0/main.c)
+   - [Tutorial](tutorials/Tutorial%201.pptx)
 2. Lecture slides: [Functions](lecs/lec1.pdf)
 
 

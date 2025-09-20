@@ -18,8 +18,16 @@ Data Science = Statistics + Computing,
 
 ## Q: But can't AI/ChatGPT write code nowadays?  
 
-- Learning to code is learning to think, in a procedural style. 
-- AI cannot do end-to-end programming yet (although it may soon). 
-- You still need to be proficient in programming in order to use AI assisted programming tools. 
+- Learning to code is learning to think, is learning to express your solutions to a problem in a procedural and programmatic style. Using AI to write code for you meaning you are missing out on this important lesson. 
+- You need to be proficient in programming in order to use AI properly. 
+- In most interviews, the interviewer will not allow you to use AI in coding questions. 
 
 --- 
+
+## Q: What are tips of using AI?  
+
+- You can use it to **get feedback** and offer you clues to your next steps. 
+- but you **cannot ask it to generate code for you** and submit it as your work. 
+
+- In the exam, you will be asked to program using pen and paper, and  ChatGPT will not be available. 
+- ChatGPT may sound confident, but may give you **wrong answers**. 
