@@ -11,7 +11,8 @@ TL,DR; This unit teaches basic language features of C, R.
 
 **Announcement:**
    - [Policy of AI Use](misc/llm.md) (MUST READ)
-   - [Frequently Asked Questions](QAs.md)
+   - [Frequently Asked Questions](misc/QAs.md)
+   - [Get Help from Other Students!](misc/Help.md)
 -----------
 ## Lecture Materials (Download slides to your PC or the links won't work!)
 [Last Year's Materials, may slightly differ from this year's.](https://github.com/anewgithubname/MATH10017-2024)
