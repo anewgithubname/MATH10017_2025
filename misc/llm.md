@@ -6,6 +6,6 @@ Toward the end of 2022, the Large Language Models chat bots (such as ChatGPT) ha
 
 - Including AI-generated code in your submission is regarded as cheating in this course. 
 
-- You can ask AI to assist your learning. For example, you can ask AI, why my code gives me XYZ error? However, you should not ask AI to write XYZ code for you and you should fix it yourself. 
+- You can ask AI to assist your learning. For example, you can ask AI, why my code gives me XYZ error? However, you should not ask AI to write XYZ code for you. You should fix it yourself. 
 
-In your exam, you will not have access to any AI tools, as you will write the program on the paper. 
+In your exam, you will not have access to any AI tools, as you will write code on the paper. 
