@@ -1,6 +1,6 @@
 # AI-assisted Programming Tools (such as ChatGPT)
 
-[The use of AI is prohibited in the assessment](https://www.bristol.ac.uk/bilt/sharing-practice/guides/guidance-on-ai/using-ai-in-assessment/#:~:text=Categories%20of%20generative%20AI%20use%20in%20assessment,-In%20this%20section&text=Category%202:%20Minimal%20%E2%80%93%20for%20example,student-facing%20academic%20integrity%20pages.). In the assessment, you should not use it for writing code, not even using it to correct typos or writing comments. 
+[The use of AI is prohibited in assessments](https://www.bristol.ac.uk/bilt/sharing-practice/guides/guidance-on-ai/using-ai-in-assessment/#:~:text=Categories%20of%20generative%20AI%20use%20in%20assessment,-In%20this%20section&text=Category%202:%20Minimal%20%E2%80%93%20for%20example,student-facing%20academic%20integrity%20pages.). You should not use it for writing code, not even using it to correct typos or writing comments, when working on assessments. 
 
 Toward the end of 2022, the Large Language Models chat bots (such as ChatGPT) has demonstrated its capability of generating code. I hope that you can use this technology to enrich your leaning experiences. However, there are also concerns about plagiarism and cheating. 
 
