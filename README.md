@@ -40,4 +40,4 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 
 
 ## Miscellaneous  
-   - [How to use VSCode on Mac](VS-code-for-mac.md)
+   - [How to use VSCode on Mac](misc/VS-code-for-mac.md)
