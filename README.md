@@ -25,6 +25,8 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Tutorial](tutorials/Tutorial%201.pptx)
 2. Lecture slides: [Functions](lecs/lec1.pdf)
    - [Homework 1 problems](labs/lab1_functions.pptx), [Homework 1 file](labs/lab1.zip), 
+3. Lecture slides: [Flow Control](lecs/lec2.pdf)
+4. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
 
 
 ## Extra Learning Materials
