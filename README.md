@@ -19,14 +19,16 @@ TL,DR; This unit teaches basic language features of C, R.
 
 Go to Blackboard, Resource and Learning Tools to watch replay! 
 
-1. Lecture slides: [Foundation](lecs/lec0.pdf)
+0. Lecture slides: [Foundation](lecs/lec0.pdf)
    - Homework 0 problems are attached after the slides. 
    - [Homework 0 file](labs/lab0/main.c), [Lab Solutions](sols/lab1_sol.zip)
    - [Tutorial](tutorials/Tutorial%201.pptx), [Tutorial Solutions](sols/tutorial_week1_solution.c)
-2. Lecture slides: [Functions](lecs/lec1.pdf)
+1. Lecture slides: [Functions](lecs/lec1.pdf)
    - [Homework 1 problems](labs/lab1_functions.pptx), [Homework 1 file](labs/lab1.zip), 
-3. Lecture slides: [Flow Control](lecs/lec2.pdf)
-4. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
+2. Lecture slides: [Flow Control](lecs/lec2.pdf)
+   - [Homework 2 file](labs/2_conditional_and_loops.zip)
+3. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
+   - [Homework 3 file](labs/3_nested.zip)
 
 
 ## Extra Learning Materials
