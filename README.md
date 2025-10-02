@@ -28,7 +28,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Homework 1 problems](labs/lab1_functions.pptx), [Homework 1 file](labs/lab1.zip), 
    - [Homework 1 Solutions](sols/lab1_sol.zip), [Tutorial Solutions](sols/tutorial_week1_solution.c)
 2. Lecture slides: [Flow Control](lecs/lec2.pdf)
-   - [Homework 2 file](labs/2_conditional_and_loops.zip)
+   - [Homework 2 file](labs/2_conditional_and_loops.zip), [Tutorial](tutorials/Tutorial2_Newton.zip)
 3. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
    - [Homework 3 file](labs/3_nested.zip)
 
