@@ -31,9 +31,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Homework 2 file](labs/2_conditional_and_loops.zip), [Homework 2 Soution](sols/lab_2_sol/)
    - [Tutorial](tutorials/Tutorial2_Newton.zip), [Tutorial Solution](sols/tutorial2_newton.c)
 3. Lecture slides: [Advanced Flow Control](lecs/lec3.pdf)
-   - [Homework 3 file](labs/3_nested.zip), [Homework 2 Soution](sols/lab_3_sol/)
+   - [Homework 3 file](labs/3_nested.zip), [Homework 3 Soution](sols/lab_3_sol/)
 4. Lecture slides: [Time-Complexities, Recursion and Memory Management](lecs/lec4.pdf)
-   - [Homework 3 file](labs/4_recursion_complexity.zip)
+   - [Homework 4 file](labs/4_recursion_complexity.zip)
+   - [Tutorial](tutorials/Tutorial3.zip), [Tutorial Solution](sols/Tutorial3_sol/)
 
 
 ## Extra Learning Materials
