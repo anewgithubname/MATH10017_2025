@@ -1,4 +1,4 @@
-### Computational Complexity
+### Time Complexity
 
 Compute the matrix multiplication of two matrices with sizes 
 
