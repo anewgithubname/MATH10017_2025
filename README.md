@@ -35,7 +35,8 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 4. Lecture slides: [Time-Complexities, Recursion and Memory Management](lecs/lec4.pdf)
    - [Homework 4 file](labs/4_recursion_complexity.zip)
    - [Tutorial](tutorials/Tutorial3.zip), [Tutorial Solution](sols/Tutorial3_sol/)
-
+5. Lecture slides: [Array](lecs/lec5.pdf)
+   - [Homework 5 file]()
 
 ## Extra Learning Materials
 
