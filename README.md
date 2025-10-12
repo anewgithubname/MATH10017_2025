@@ -35,7 +35,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Homework 4 file](labs/4_recursion_complexity.zip), [Homework 4 solution](sols/lab_4_sol/)
    - [Tutorial](tutorials/Tutorial3.zip), [Tutorial Solution](sols/Tutorial3_sol/)
 5. Lecture slides: [Array](lecs/lec5.pdf)
-   - [Homework 5 file]()
+   - [Homework 5 file](labs/5_array.zip)
 
 ## Extra Learning Materials
 
