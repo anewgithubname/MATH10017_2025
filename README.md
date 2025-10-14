@@ -22,7 +22,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 
 0. Lecture slides: [Foundation](lecs/lec0.pdf)
    - Homework 0 problems are attached after the slides. 
-   - [Homework 0 file](labs/lab0/main.c), 
+   - [Homework 0 file](labs/0_foundation.zip) 
    - [Tutorial](tutorials/Tutorial%201.pptx), [Tutorial Solution](sols/tutorial_week1_solution.c)
 1. Lecture slides: [Functions](lecs/lec1.pdf)
    - [Homework 1 problems](labs/lab1_functions.pptx), [Homework 1 file](labs/lab1/), [Homework 1 Solutions](sols/lab1_sol/)
