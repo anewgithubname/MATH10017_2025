@@ -36,6 +36,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Tutorial](tutorials/Tutorial3.zip), [Tutorial Solution](sols/Tutorial3_sol/)
 5. Lecture slides: [Array](lecs/lec5.pdf)
    - [Homework 5 file](labs/5_array.zip)
+   - [Tutorial file](tutorials/tutorial4.zip)
 
 ## Extra Learning Materials
 
