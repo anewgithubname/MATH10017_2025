@@ -41,7 +41,7 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Homework 6 file](labs/6_pointer.zip)
 8. Lecture slides: [Structure](lecs/lec8.pdf)
    - [Homework 8 file](labs/8_struct.zip)
-   - [CW1](labs/cw1.zip), [Example Output](/labs/out.txt)
+   - [CW1](labs/cw1.zip) Updated on 16:34, 21 Oct, [Example Output](/labs/out.txt)
 
 ## Extra Learning Materials
 
