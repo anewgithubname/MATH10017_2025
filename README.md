@@ -39,8 +39,8 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Tutorial file](tutorials/tutorial4.zip), [Tutorial Solution](sols/tutorial4_sol.c)
 6. Lecture slides: [Pointers](lecs/lec6.pdf), [Pointers 2](lecs/lec7.pdf)
    - [Homework 6 file](labs/6_pointer.zip), [Homework 6 solution](sols/lab_6_sol/)
-8. Lecture slides: [Structure](lecs/lec8.pdf), [Homework 8 solution](sols/lab_8_sol/)
-   - [Homework 8 file](labs/8_struct.zip)
+8. Lecture slides: [Structure](lecs/lec8.pdf)
+   - [Homework 8 file](labs/8_struct.zip), [Homework 8 solution](sols/lab_8_sol/)
    - [CW1](labs/cw1.zip) Updated on 16:34, 21 Oct, [Example Output](/labs/out.txt)
 
 ## Extra Learning Materials
