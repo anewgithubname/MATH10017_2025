@@ -44,6 +44,9 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [CW1](labs/cw1.zip) Updated on 16:34, 21 Oct, [Example Output](/labs/out.txt)
 9. Lecture slides: [Intro to R](lecs/lec9.pdf) and [Matrices and vectors](lecs/lec10.pdf)
    - [Homework 9 file](labs/9_intro_to_R.zip)
+   - [Tutorial file](tutorials/tut_week_7.zip)
+   
+   
 
 ## Extra Learning Materials
 
