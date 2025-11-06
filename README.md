@@ -43,8 +43,11 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Homework 8 file](labs/8_struct.zip), [Homework 8 solution](sols/lab_8_sol/)
    - [CW1](labs/cw1.zip) Updated on 16:34, 21 Oct, [Example Output](/labs/out.txt)
 9. Lecture slides: [Intro to R](lecs/lec9.pdf) and [Matrices and vectors](lecs/lec10.pdf)
-   - [Homework 9 file](labs/9_intro_to_R.zip)
+   - [Homework 9 file](labs/9_intro_to_R.zip) 
    - [Tutorial file](tutorials/tut_week_7.zip)
+   - [Week 7 solution](sols/Week_7_Solutions/)
+10. Lecture slides: [R speed](lecs/lec11.pdf) and [Graphics in R](lecs/lec12.pdf)
+    - [Tutorial file](tutorials/Tut_Week_8.pdf)
    
    
 
