@@ -50,8 +50,8 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
     - [Tutorial file](tutorials/Tut_Week_8.pdf)
     - [Week 8 solution](sols/Week_8_sol/)
 11. Lecture slides: [Search algos](lecs/lec13.pdf) and [Iterative algos](lecs/lec14.pdf)
-    - [Lab files](tutorials/10_Week_9.zip)
-    - [Tutorial file](tutorials/Tut_Week_8.pdf)
+    - [Lab files](labs/10_Week_9.zip)
+    - [Tutorial file](tutorials/Tut_Week_9.pdf)
    
    
 
