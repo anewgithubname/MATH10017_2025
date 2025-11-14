@@ -48,6 +48,9 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
    - [Week 7 solution](sols/Week_7_Solutions/)
 10. Lecture slides: [R speed](lecs/lec11.pdf) and [Graphics in R](lecs/lec12.pdf)
     - [Tutorial file](tutorials/Tut_Week_8.pdf)
+    - [Week 8 solution](sols/Week_7_Solutions/)
+11. Lecture slides: [Greedy algos](lecs/lec13.pdf) and [Iterative algos](lecs/lec14.pdf)
+    - [Tutorial file](tutorials/Tut_Week_9.pdf)
    
    
 
