@@ -52,6 +52,10 @@ Go to Blackboard, Resource and Learning Tools to watch replay!
 11. Lecture slides: [Search algos](lecs/lec13.pdf) and [Iterative algos](lecs/lec14.pdf)
     - [Lab files](labs/10_Week_9.zip)
     - [Tutorial file](tutorials/Tut_Week_9.zip)
+    - [Week 9 solutions](sols/Week_9_sol/)
+12. Lecture slides: [Functional Prog](lecs/lec15.pdf) and [Data frames](lecs/lec16.pdf)
+    - [Lab files](labs/11_Week_10.zip)
+    - [Tutorial file](tutorials/Tut_Week_10.zip)
    
    
 
